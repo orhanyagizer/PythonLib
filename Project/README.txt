@@ -1,1 +1,1 @@
-Python Data Manipulation, Data Analysis and Data Viasulation Projects
+Python Data Manipulation, Data Analysis and Data Visualization Projects
